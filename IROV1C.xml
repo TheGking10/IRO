@@ -1,0 +1,2397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>IRO</name>
+      <longname></longname>
+      <settype>Irokisai: Artistic Madness</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Kinura&apos;s Genesis</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Kinura’s Genesis enters or leaves the battlefield, create a 1/1 white Bird Construct artifact creature token with flying.
+{3}: Sacrifice Kinura’s Genesis.</text>
+    </card>
+    <card>
+      <name>Inspiring Statue</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Inspiring Statue enters, draw a card, then sketch 1. (You may discard a card. If you do, create a 0/0 Sketch creature token. Put a +1/+1 counter on it.)</text>
+    </card>
+    <card>
+      <name>Openvein Scribe</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ritual (Whenever this creature attacks, you may sacrifice an artifact, enchantment, or token.)
+Whenever Openvein Scribe performs a ritual, it gains lifelink until end of turn. Untap it.</text>
+    </card>
+    <card>
+      <name>Plastic Performers</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Performer Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Plastic Performers dies, you may exile it. If you do, return another target artifact or enchantment card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Jikizu Initiate</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Jikizu Initiate enters, if exactly three colors of mana were spent to cast it, create a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)
+{1}, Tap an untapped token you control: Jikizu Initiate gains flying end of turn.</text>
+    </card>
+    <card>
+      <name>Inkblessed Samurai</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Human Samurai </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Inkblessed Samurai attacks, it gains first strike until end of turn. Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Reconstructing Sculpture</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+2W, Sacrifice an artifact, enchantment, or token: Return Reconstructing Sculpture from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Masked Troupe</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ritual (Whenever this creature attacks, you may sacrifice an artifact, enchantment, or token.)
+Whenever Masked Troupe performs a ritual, other creatures you control get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Imitation of the Divine</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Angel Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Delirium — When Imitation of the Divine enters, if there are four or more card types among cards in your graveyard, create a 2/1 white and black Inkling creature token with flying.</text>
+    </card>
+    <card>
+      <name>Calligraphic Strike</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Calligraphic Strike deals 2 damage to target attacking or blocking creature. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>Idealized Agony</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature can’t attack or block.
+{1}, Discard a card: Exile enchanted creature. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Bring the Hammer</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one:
+• Destroy target creature with power 4 or greater.
+• Return target artifact or enchantment card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Blessed Performance</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+2 until end of turn.
+Delirium — If there are four or more card types among cards in your graveyard, that creature gains hexproof and indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Role of a Hero</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Whenever enchanted creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it. Otherwise, untap it.</text>
+    </card>
+    <card>
+      <name>Whiteout</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target artifact or enchantment. Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Friendly Palette</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2U: Draw a card, then discard a card.
+Materialize 1 — 1U (1U, Exile this card from your graveyard: Put a +1/+1 counter on target artifact, enchantment, or token you control. If it isn’t a creature, it becomes a 0/0 creature in addition to its other types. Materialize only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Slick Street Artist</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Slick Street Artist deals combat damage to a player, draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Kinura&apos;s Pupil</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{T}: Add {C}. This mana can’t be spent to cast creature spells.</text>
+    </card>
+    <card>
+      <name>Kanmaro Initiate</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Kanmaro Initiate enters, mill three cards. If exactly three colors of mana were spent to cast Kanmaro Initiate, it becomes an Angel and you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Rainvoice Soloist</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Merfolk Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more instant or sorcery cards are put into your graveyard from anywhere, Rainvoice Soloist gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Delirious Prophet</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2U, Exile Delirious Prophet from your graveyard: Sketch X, where X is number of card types in your graveyard. Activate only as a sorcery. (You may discard a card. If you do, create a 0/0 Sketch creature token. Put X +1/+1 counters on it. The discarded card does not count towards X.)</text>
+    </card>
+    <card>
+      <name>Haunting Musician</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Spirit Bard </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Haunting Musician enters, draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Eyebell</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, defender
+As long as you’ve discarded a card this turn, Eyebell can attack as though it didn’t have defender.</text>
+    </card>
+    <card>
+      <name>Deconstructive Criticism</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target artifact or creature spell. If a spell is countered this way, exile it instead of putting it into its owner’s graveyard.</text>
+    </card>
+    <card>
+      <name>Drown the Noise</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller pays {2}. If an instant or sorcery card was put into your graveyard from anywhere this turn, instead counter target spell.</text>
+    </card>
+    <card>
+      <name>Aomorphosis</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant nonland permanent
+Enchanted permanent is a blue Inkling creature with base power and toughness 1/1 with flying. It loses all other card types and abilities.</text>
+    </card>
+    <card>
+      <name>Intrusive Thoughts</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards.
+Madness 2U (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Sketch Out</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 2. Draw a card. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Sketch 1. (You may discard a card. If you do, create a 0/0 Sketch creature token. Put a +1/+1 counter on it.)</text>
+    </card>
+    <card>
+      <name>Abstractify</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, target creature or artifact becomes a Sketch artifact creature with base power and toughness 3/3. It can’t be blocked this turn.
+Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Bury in Clay</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap target creature an opponent controls and put three stun counters on it.
+Materialize 3 — 5U (5U, Exile this card from your graveyard: Put three +1/+1 counters on target artifact, enchantment, or token you control. If it isn’t a creature, it becomes a 0/0 creature in addition to its other types. Materialize only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Blotchblood Vampire</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Blotchblood Vampire enters, create a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)
+1B: Blotchblood Vampire gains deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>Macabre Jester</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ritual (Whenever this creature attacks, you may sacrifice an artifact, enchantment, or token.)
+Whenever Macabre Jester performs a ritual, put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Blotfly</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Inkling </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+2B: Blotfly gets +1/+0 until end of turn. Activate only during your turn.
+1B, Discard a card: Return Blotfly from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Wealthy Patron</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When Wealthy Patron enters, mill a card. Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Dusktear Initiate</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Dusktear Initiate enters, draw a card. You lose 2 life if you didn’t spend exactly three colors of mana to cast Dusktear Initiate. Otherwise, each opponent loses 2 life.</text>
+    </card>
+    <card>
+      <name>Wicked Bard</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Bard Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Wicked Bard attacks, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Writer of Dark Hymns</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ritual (Whenever this creature attacks, you may sacrifice an artifact, enchantment, or token.)
+Whenever Writer of Dark Hymns performs a ritual, draw a card.</text>
+    </card>
+    <card>
+      <name>Harpstring Slasher</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Vampire Bard </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
+When Harpstring Slasher enters, create two Blood tokens. (They’re artifacts with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>Dying on Stage</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets -2/-2. 
+Whenever you attack, you may pay 3B. If you do, destroy enchanted creature.</text>
+    </card>
+    <card>
+      <name>Chorus of Screams</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, pay {2} or exile an instant or sorcery card from your graveyard.
+Exile target creature.</text>
+    </card>
+    <card>
+      <name>Inky Embrace</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature if it took damage this turn. Create a 2/1 white and black Inkling creature token with flying.</text>
+    </card>
+    <card>
+      <name>Draw to Life</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return up to two target creature cards from your graveyard to your hand. Sketch 2. (You may discard a card. If you do, create a 0/0 Sketch creature token. Put two +1/+1 counters on it.)</text>
+    </card>
+    <card>
+      <name>Peer Through Scars</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a nonland permanent.
+Draw two cards and create a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>Stain Image</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent reveals their hand. You choose a nonland card from that player’s graveyard or hand and exile it.
+Sketch 2. (You may discard a card. If you do, create a 0/0 Sketch creature token. Put two +1/+1 counters on it.)</text>
+    </card>
+    <card>
+      <name>Bloodbind</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, target creature you control gains “When this creature dies, return it to the battlefield tapped under its owner’s control and you create a Blood token.” (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>Canvas Splatterer</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Inkling Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Canvas Splatterer dies or when you discard Canvas Splatterer, create a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>Twincan Tagger</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you’ve discarded a card this turn, Twincan Tagger has double strike.
+2R, Discard a card: Draw a card.</text>
+    </card>
+    <card>
+      <name>Flamevoice Rager</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more instant or sorcery cards are put into your graveyard from anywhere, Flamevoice Rager gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Vibrant Paintsoaker</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Vibrant Paintsoaker enters, sketch 1. (You may discard a card. If you do, create a 0/0 Sketch creature token. Put a +1/+1 counter on it.)</text>
+    </card>
+    <card>
+      <name>Inkarms Assailant</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Vampire Samurai </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Inkarms Assailant enters, create a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>Kumei Initiate</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Fox Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3 </pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, trample
+When Kumei Initiate enters, if exactly three colors of mana were spent to cast it, target creature you control gets +1/+1 and gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Brushstroke Tiger</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Cat Inkling </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1R, Exile Brushstroke Tiger from your graveyard: Sketch 2. (You may discard a card. If you do, create a 0/0 Sketch creature token. Put two +1/+1 counters on it.)</text>
+    </card>
+    <card>
+      <name>Hemomancer&apos;s Art</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Hemomancer’s Art deals 2 damage to target creature.
+• Create two Blood tokens. (They’re artifacts with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>Pigment Slash</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Pigment Slash costs {1} less to cast if you’ve created a token this turn.
+Pigment Slash deals 3 damage to any target.</text>
+    </card>
+    <card>
+      <name>Thrill of Possibility</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard a card.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Violent Crescendo</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Violent Crescendo deals 6 damage to target creature and 2 damage to up to one target creature token.
+Madness 3R (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Hovering Bloodblades</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Hovering Bloodblades enters the battlefield, attach it to target creature you control. That creature gains first strike until end of turn.
+Whenever equipped creature attacks, it gets +2/+0 until end of turn.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Living on Adrenaline</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +1/+0 and gain haste until end of turn.
+Madness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Shattering Screams</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one:
+• Destroy target artifact.
+• Up to two target creatures can’t block this turn.</text>
+    </card>
+    <card>
+      <name>Monstrous Tattoo</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+Enchanted creature gets +2/+1.
+When Monstrous Tattoo is put into a graveyard from the battlefield, it deals 2 damage to target opponent.</text>
+    </card>
+    <card>
+      <name>Kumei Wildstyler</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Wolf Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2G: Kumei Wildstyler gets +2/+2 until end of turn. Sketch 2. Activate only as a sorcery and only once each turn. (To sketch 2, you may discard a card. If you do, create a 0/0 Sketch creature token. Put two +1/+1 counters on it.)</text>
+    </card>
+    <card>
+      <name>Wildlife Carver</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Delirium — {T}: Add one mana of any color. If there are four or more card types among cards in your graveyard, instead create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Silkcloaked Actor</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Performer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Silkcloaked Actor enters, you mill two cards.</text>
+    </card>
+    <card>
+      <name>Festerweb Initiate</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Performer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Festerweb Initiate enters, if exactly three colors were spent to cast it, return target card in your graveyard to your hand.
+When Festerweb Initiate dies, exile it.</text>
+    </card>
+    <card>
+      <name>Landscape Painting</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.
+Sketch 2. (You may discard a card. If you do, create a 0/0 Sketch creature token. Put two +1/+1 counters on it.)</text>
+    </card>
+    <card>
+      <name>Spraycan Arachnid</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Spider Sketch </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, deathtouch
+Materialize 2 — 4G (4G, Exile this card from your graveyard: Put two +1/+1 counters on target artifact, enchantment, or token you control. If it isn’t a creature, it becomes a 0/0 creature in addition to its other types. Materialize only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Puppeteer&apos;s Pets</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Cat Dog Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Puppeteer’s Pets enters, draw a card. Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Colorroot Behemoth</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1G, Discard Colorroot Behemoth: Mill three cards. You may put a permanent card from among the milled cards into your hand. You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Paragon of Stoneoak</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+Reach</text>
+    </card>
+    <card>
+      <name>Forced Conflict</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Delirium — This spell costs {2} less to cast if there are four or more card types among cards in your graveyard.
+Target creature you control gets +1/+1 until end of turn. Then it fights target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Sculpt to Perfection</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +3/+3 until end of turn.
+Materialize 3 — 5G (5G, Exile this card from your graveyard: Put three +1/+1 counters on target artifact, enchantment, or token you control. If it isn’t a creature, it becomes a 0/0 creature in addition to its other types. Materialize only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Gift of the Spiders</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+When Gift of the Spiders enters, enchanted creature gets +1/+3 until end of turn. Untap it.
+Enchanted creature has reach.</text>
+    </card>
+    <card>
+      <name>Radiant Whirlwind</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact, enchantment, or creature with flying. You gain 3 life.</text>
+    </card>
+    <card>
+      <name>New Coat of Paint</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When New Coat of Paint enters, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+Enchanted creature gets +2/+2.</text>
+    </card>
+    <card>
+      <name>Overgrown Statue</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+{3}, {T}, Sacrifice an artifact, enchantment, or token: Draw a card.</text>
+    </card>
+    <card>
+      <name>Samurai of the Thirsty Blade</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>BR</color>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Samurai </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike, lifelink
+When Samurai of the Thirsty Blade enters, create two Blood tokens. (They’re artifacts with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>Visionary Painter</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>WG</color>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Delirium — {T}: Put a +1/+1 counter on another target creature. You gain 1 life. Activate only if there are four or more card types among cards in your graveyard and only a sorcery.</text>
+    </card>
+    <card>
+      <name>Herald of Stains</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>WB</color>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Inkling </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ritual (Whenever this creature attacks, you may sacrifice an artifact, enchantment, or token.)
+Whenever a creature you control performs a ritual, each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Brush with Madness</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>UR</color>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 0/0 colorless Sketch creature token. Put four +1/+1 counters on it.
+Madness U/RU/R (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Stalking Graffiti</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>UG</color>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Beast Sketch </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Stalking Graffiti enters, draw a card, then discard a card.
+Materialize 3 — 4GU (4GU, Exile this card from your graveyard: Put three +1/+1 counters on target artifact, enchantment, or token you control. If it isn’t a creature, it becomes a 0/0 creature in addition to its other types. Materialize only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Stringpuller Stagehand</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>WBG</color>
+        <manacost>2WBG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Stringpuller Stagehand enters, put two +1/+1 counters on target creature. It gains menace until end of turn.
+{2}, Exile Stringpuller Stagehand from your hand: Create a Treasure token. You may cast Stringpuller Stagehand for as long as it remains exiled. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Ishamu&apos;s Surveyor</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>WUG</color>
+        <manacost>2GWU</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Ishamu’s Surveyor enters, you gain 3 and draw a card.
+{2}, Exile Ishamu’s Surveyor from your hand: Create a Treasure token. You may cast Ishamu’s Surveyor for as long as it remains exiled. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Inkbleed Hive</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>WBR</color>
+        <manacost>3RWB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Inkling Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Inkbleed Hive enters, create two 2/1 white and black Inkling creature tokens with flying. They gain haste until end of turn.
+{2}, Exile Inkbleed Hive from your hand: Create a Treasure token. You may cast Inkbleed Hive for as long as it remains exiled. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Rowdy Crowdstirrer</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>UBR</color>
+        <manacost>UBR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Rowdy Crowdstirrer enters, draw a card. Then, each player discards a card.
+{2}, Exile Rowdy Crowdstirrer from your hand: Create a Treasure token. You may cast Rowdy Crowdstirrer for as long as it remains exiled. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Tattoo Summoner</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>URG</color>
+        <manacost>3GUR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Tattoo Summoner enters, it deals 3 damage to target opponent. Create a tapped 0/0 colorless Sketch creature token. Put three +1/+1 counters on it.
+{2}, Exile Tattoo Summoner from your hand: Create a Treasure token. You may cast Tattoo Summoner for as long as it remains exiled.</text>
+    </card>
+    <card>
+      <name>Realmwound Summoning</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>BR</color>
+        <manacost>2B/R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 black and red Horror creature tokens with “When this creature dies, it deals 1 damage to each opponent.”</text>
+    </card>
+    <card>
+      <name>Mindstained Vampire</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>BR</color>
+        <manacost>1B/R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you discard a card, put a +1/+1 counter on Mindstained Vampire.</text>
+    </card>
+    <card>
+      <name>Bonded Prismancer</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>WG</color>
+        <manacost>2G/W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Bonded Prismancer enters, create a 0/0 colorless Sketch creature token. Put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Origami Familiars</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>WG</color>
+        <manacost>G/W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+3G/W: Put a +1/+1 counter on Origami Familiars.</text>
+    </card>
+    <card>
+      <name>Soulblot</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>WB</color>
+        <manacost>2W/B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 2/1 white and black Inkling creature token with flying. Exile up to one target card from a graveyard.</text>
+    </card>
+    <card>
+      <name>Refined Inkling</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>WB</color>
+        <manacost>3W/B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Inkling </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Refined Inkling dies, you gain 2 life and draw a card.</text>
+    </card>
+    <card>
+      <name>Rubypool Awakening</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>UR</color>
+        <manacost>U/R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 1/1 Elemental creature token with prowess. (Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>Stormchaser Prodigy</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>UR</color>
+        <manacost>2U/RU/R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Stormchaser Prodigy enters, return target instant, or sorcery card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Sculpt the Woods</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>UG</color>
+        <manacost>3G/U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 3/3 colorless Sculpture artifact creature token. Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Paintrune Guide</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color>UG</color>
+        <manacost>5G/U</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Paintrune Guide enters, target creature has base power and toughness 4/4 until end of turn. Draw a card.</text>
+    </card>
+    <card>
+      <name>Vibranceseeker</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color></color>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Sketch </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Vibranceseeker enters, search your library for a basic land card, reveal it, shuffle, then put it on top.
+{3}, {T}: Exile target card from a graveyard. You gain 1 life.</text>
+    </card>
+    <card>
+      <name>Papercraft Princess</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color></color>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Noble Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Papercraft Princess dies, create a tapped white and black 2/1 Inkling creature token with flying.
+{3}, Sacrifice Papercraft Princess: Draw a card.</text>
+    </card>
+    <card>
+      <name>Harpsong Automaton</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color></color>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Materialize 4 — {8} ({8}, Exile this card from your graveyard: Put four +1/+1 counters on target artifact, enchantment, or token you control. If it isn’t a creature, it becomes a 0/0 creature in addition to its other types. Materialize only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Masterpiece Brush</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color></color>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When equipped creature attacks, put a +1/+1 counter on it. Create a Treasure token. Sacrifice Masterpiece Brush. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Paintspill Buckets</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color></color>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}: Add one mana of any color.
+{3}, {T}, Sacrifice Paintspill Buckets: Paintspill Buckets deals 6 damage to target creature. You must spend exactly three different colors of mana to activate this ability.</text>
+    </card>
+    <card>
+      <name>Canvas Expanse</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice Canvas Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{T}, Discard a card, Sacrifice Canvas Expanse: Draw a card.</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">IRO</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">IRO</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">IRO</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">IRO</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">IRO</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Iridescent Entrance</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Iridescent Entrance enters tapped.
+{T}: Add {W} or {U}.
+{4}, {T}, Discard a card: Draw a card.</text>
+    </card>
+    <card>
+      <name>Inky Bog</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Inky Bog enters tapped.
+{T}: Add {U} or {B}. 
+{4}, {T}, Discard a card: Draw a card.</text>
+    </card>
+    <card>
+      <name>Stained Grounds</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Stained Grounds enters tapped.
+{T}: Add {B} or {R}.
+{4}, {T}, Discard a card: Draw a card.</text>
+    </card>
+    <card>
+      <name>Pigmented Wilds</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Pigmented Wilds enters tapped.
+{T}: Add {R} or {G}.
+{4}, {T}, Discard a card: Draw a card.</text>
+    </card>
+    <card>
+      <name>Kaleidoscopic Woods</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Kaleidoscopic Woods enters tapped.
+{T}: Add {G} or {W}.
+{4}, {T}, Discard a card: Draw a card.</text>
+    </card>
+    <card>
+      <name>Nightshine Tower</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Nightshine Tower enters tapped.
+{T}: Add {W} or {B}.
+{4}, {T}, Discard a card: Draw a card.</text>
+    </card>
+    <card>
+      <name>Gleaming Peak</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Gleaming Peak enters tapped.
+{T}: Add {U} or {R}.
+{4}, {T}, Discard a card: Draw a card.</text>
+    </card>
+    <card>
+      <name>Veinweb Village</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Veinweb Village enters tapped.
+{T}: Add {B} or {G}.
+{4}, {T}, Discard a card: Draw a card.</text>
+    </card>
+    <card>
+      <name>Bleeding Valley</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Bleeding Valley enters tapped.
+{T}: Add {R} or {W}.
+{4}, {T}, Discard a card: Draw a card.</text>
+    </card>
+    <card>
+      <name>Painted Falls</name>
+      <set rarity="common">IRO</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Painted Falls enters tapped.
+{T}: Add {G} or {U}.
+{4}, {T}, Discard a card: Draw a card.</text>
+    </card>
+    <card>
+      <name>Kusattachi&apos;s Duelist</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Samurai </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike
+Ritual (Whenever this creature attacks, you may sacrifice an artifact, enchantment, or token.)
+Whenever Kusattachi’s Duelist performs a ritual, put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Webweave Dancers</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ritual (Whenever this creature attacks, you may sacrifice an artifact, enchantment, or token.)
+Whenever a creature you control performs a ritual, tap up to one target nonland permanent.</text>
+    </card>
+    <card>
+      <name>Audience Captor</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Delirium — When Audience Captor enters, if there are four or more card types among cards in your graveyard, exile target creature an opponent controls with power 3 or less until Audience Captor leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Wings of Ink</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>W</color>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Wings of Ink enters, create a 2/1 white and black Inkling creature token with flying.
+Enchanted creature gets +2/+1 and has flying.</text>
+    </card>
+    <card>
+      <name>Fly Off The Handle</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Madness 2U  (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Create two 1/1 blue Bird creature tokens with flying. If this spell was cast for its madness cost, create three of those tokens instead.</text>
+    </card>
+    <card>
+      <name>Inscrutible Edifice</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When you materialize Inscrutible Edifice, target permanent you control can’t be blocked this turn.
+Materialize 3 — 6UU (6UU, Exile this card from your graveyard: Put three +1/+1 counters on target artifact, enchantment, or token you control. If it isn’t a creature, it becomes a 0/0 creature in addition to its other types. Materialize only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Thrist for Inspiration</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards. Then discard two cards unless you discard a multicolored card.</text>
+    </card>
+    <card>
+      <name>Colorsplash Denial</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>XU</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller pays {X}. Sketch for half X, rounded up.  (You may discard a card. If you do, create a 0/0 Sketch creature token. Put half X +1/+1 counters on it, rounded up.)</text>
+    </card>
+    <card>
+      <name>Wallow in Rejection</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Madness 3U (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Return up to two target creatures to their owner’s hands.</text>
+    </card>
+    <card>
+      <name>Mask Maker</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ritual (Whenever this creature attacks, you may sacrifice an artifact, enchantment, or token.)
+Whenever Mask Maker performs a ritual, each opponent exiles a card from their hand.</text>
+    </card>
+    <card>
+      <name>Blood Artist</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Paint Spray</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell can’t be countered. (This includes by the ward ability.)
+Paint Spray deals 3 damage to any target. Sketch 3. (You may discard a card. If you do, create a 0/0 Sketch creature token. Put three +1/+1 counters on it.)</text>
+    </card>
+    <card>
+      <name>Paint the Town Red</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Whenever a creature you control dies this turn, create a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)
+Paint the Town Red deals 2 damage to each creature.</text>
+    </card>
+    <card>
+      <name>Naturebrusher</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you discard a land card during your turn, you may put it onto the battlefield. Do this only once each turn.
+1G, {T}, Discard a card: Put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Marble Hydra</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>XG</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Hydra Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Marble Hydra enters with X +1/+1 counters on it.
+Materialize X — XGG (XGG, Exile this card from your graveyard: Put X +1/+1 counters on target artifact, enchantment, or token you control. If it isn’t a creature, it becomes a 0/0 creature in addition to its other types. Materialize only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Paint a Better Picture</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two—
+• Create a Treasure token.
+• Exile target card from a graveyard.
+• Sketch 3. (You may discard a card. If you do, create a 0/0 Sketch creature token. Put three +1/+1 counters on it.)
+• Destroy target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>Hallowed Landscaper</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>WG</color>
+        <manacost>3GW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+When Hallowed Landscaper dies, return target land card from your graveyard to the battlefield. It becomes a 3/3 Angel Sculpture artifact creature with flying and vigilance. It’s still a land.</text>
+    </card>
+    <card>
+      <name>Nightvoice Guitarist</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>UBR</color>
+        <manacost>UBR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more instant or sorcery cards are put into your  graveyard from anywhere, put a +1/+1 counter on Nightvoice Guitarist. Up to one target creature gets -1/-1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Dusktear Charm</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>UBR</color>
+        <manacost>UBR</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Draw two cards.
+• Each opponent discards two cards.
+• Dusktear Charm deals 4 damage to target creature.</text>
+    </card>
+    <card>
+      <name>Divine Construct</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>WUG</color>
+        <manacost>1GWU</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Angel Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Artifact creatures you control have vigilance and ward {1}. (Whenever they become the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Delirium — As long as there are four or more card types among cards in your graveyard, artifact creatures you control have flying.</text>
+    </card>
+    <card>
+      <name>Kanmaro Charm</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>WUG</color>
+        <manacost>GWU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Put two +1/+1 counters on target creature you control.
+• Destroy target tapped creature.
+• Counter target spell unless its controller pays {3}.</text>
+    </card>
+    <card>
+      <name>Faceless Puppeteer</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>WBG</color>
+        <manacost>1WBG</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Faceless Puppeteer or another artifact, enchantment, or token enters under your control, you gain 1 life.
+Whenever Faceless Puppeteer or another artifact card, enchantment card, or token is put into your graveyard from the battlefield, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>Scarletblade Hemomancer</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>WBR</color>
+        <manacost>RWB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever you sacrifice a permanent during your turn, you may pay {1} and 2 life. If you do, creatures you control get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Body of Creativity</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color>URG</color>
+        <manacost>GUR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Inkling </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you discard a card, you may exile the top card of your library. You may play that card until you exile another card with Body of Creativity.
+Cards exiled with Body of Creativity cost {1} less to cast and mana of any type can be spent to cast them.</text>
+    </card>
+    <card>
+      <name>Animating Canvas</name>
+      <set rarity="uncommon">IRO</set>
+      <prop>
+        <color></color>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}: Sketch 2. (You may discard a card. If you do, create a 0/0 Sketch creature token. Put two +1/+1 counters on it.)
+{3}, {T}: Sketch 5. You must spend exactly three different colors of mana to activate this ability.</text>
+    </card>
+    <card>
+      <name>Pigment Flood</name>
+      <set rarity="rare">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return all creatures to their owner’s hands. Sketch X, where X is the greatest number of cards in a player’s hand. (You may discard a card. If you do, create a 0/0 Sketch creature token. Put X +1/+1 counters on it.)</text>
+    </card>
+    <card>
+      <name>Tattoo Soulbinder</name>
+      <set rarity="rare">IRO</set>
+      <prop>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a nontoken creature you control dies, Sketch 2. (You may discard a card. If you do, create a 0/0 Sketch creature token. Put two +1/+1 counters on it.)
+Whenever a Sketch you control dies, you gain 1 life and draw a card.</text>
+    </card>
+    <card>
+      <name>Call the Colorstorm</name>
+      <set rarity="rare">IRO</set>
+      <prop>
+        <color>R</color>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Discard your hand, then draw three cards. Then, sketch 3 three times. (You may discard a card. If you do, create a 0/0 Sketch creature token. Put three +1/+1 counters on it. Do this three more times.)</text>
+    </card>
+    <card>
+      <name>Bestiary Artist</name>
+      <set rarity="rare">IRO</set>
+      <prop>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elf </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sketches you control have vigilance, trample, and ward {1}.
+XG, {T}: Sketch X. (You may discard a card. If you do, create a 0/0 Sketch creature token. Put X +1/+1 counters on it.)</text>
+    </card>
+    <card>
+      <name>Kinura, Origami Animist</name>
+      <set rarity="rare">IRO</set>
+      <prop>
+        <color>WU</color>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Kinura, Origami Animist enters, create two 1/1 white Bird Construct artifact creature tokens with flying. You gain 2 life.
+4G, {T}: Put three +1/+1 counters on target token with no counters on it.</text>
+    </card>
+    <card>
+      <name>Asuka, the Raven</name>
+      <set rarity="rare">IRO</set>
+      <prop>
+        <color>UB</color>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you exile an instant or sorcery card you own from anywhere, create a 1/1 blue Bird creature token with flying. Each opponent loses 1 life and you gain 1 life.
+2R: Exile the top card of your library. Until end of turn, you may play that card.</text>
+    </card>
+    <card>
+      <name>Sanguine Sculptor</name>
+      <set rarity="rare">IRO</set>
+      <prop>
+        <color>BR</color>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Blood tokens you control are Treasures in addition to their other types and have “{T}, Sacrifice this artifact: Add one mana of any color.”
+Whenever a creature you control dies, create a tapped Blood token.</text>
+    </card>
+    <card>
+      <name>Dorin, Walking Canvas</name>
+      <set rarity="rare">IRO</set>
+      <prop>
+        <color>RG</color>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Enchantment Creature - Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever you discard a card, put a +1/+1 counter on Dorin, Walking Canvas.
+3UU: Until end of turn, target creature gains hexproof and “Whenever this creature deals combat damage to a player, draw that many cards.”</text>
+    </card>
+    <card>
+      <name>Manni, the Stagesetter</name>
+      <set rarity="rare">IRO</set>
+      <prop>
+        <color>BG</color>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+{T}: Add X mana of any one color, where X is the number of card types in your graveyard.
+4W, Sacrifice an artifact or enchantment: Return target nonland permanent with mana value 3 or less from your graveyard to the battlefield. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Portrait of the Self</name>
+      <set rarity="rare">IRO</set>
+      <prop>
+        <color>UG</color>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Sketch </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Portrait of the Self enter the battlefield as a copy of any creature on the battlefield, except it has “At the beginning of combat on your turn, sketch X, where X is this creature’s power.” (You may discard a card. If you do, create a 0/0 Sketch creature token. Put X +1/+1 counters on it.)</text>
+    </card>
+    <card>
+      <name>Senritsu, Dusk Conductor</name>
+      <set rarity="rare">IRO</set>
+      <prop>
+        <color>UBR</color>
+        <manacost>1UBR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Vampire Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever you discard a card, you may pay 2 life and exile an instant or sorcery card from your graveyard. If you do, copy it. You may cast the copy.</text>
+    </card>
+    <card>
+      <name>Jora, Heiress of Webs</name>
+      <set rarity="rare">IRO</set>
+      <prop>
+        <color>WBG</color>
+        <manacost>WBG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact Creature - Spider </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, reach, vigilance
+Ritual (Whenever this creature attacks, you may sacrifice an artifact, enchantment, or token.)
+Whenever Jora, Heiress of Webs performs a ritual, create two 1/2 green Spider creature tokens with reach that are tapped and attacking.</text>
+    </card>
+    <card>
+      <name>Worldshatter Sculpture</name>
+      <set rarity="mythic">IRO</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When you materialize Worldshatter Sculpture, create a token copy of the permanent it is materializing.  Put three +1/+1 counters on the copy. If it isn’t a creature, it becomes a 0/0 creature in addition to its other types.
+Materialize 3 — 5UU</text>
+    </card>
+    <card>
+      <name>Morii of Echoing Despair</name>
+      <set rarity="mythic">IRO</set>
+      <prop>
+        <color>UBR</color>
+        <manacost>3UBR</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Bat Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink, haste
+As long as a player lost life this turn, each instant and sorcery card you own has madness. The madness cost is equal to 2B plus pay 3 life.
+Whenever Morii of Echoing Despair deals combat damage to a player, discard your hand, then draw three cards.</text>
+    </card>
+    <card>
+      <name>Jorobu of Ceaseless Strings</name>
+      <set rarity="mythic">IRO</set>
+      <prop>
+        <color>WBG</color>
+        <manacost>2WBG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Spider Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Ritual (Whenever this creature attacks, you may sacrifice an artifact, enchantment, or token.)
+Whenever a creature you control performs a ritual, return target permanent card from your graveyard to the battlefield. It gains “When you don’t control a legendary Spider, exile this permanent.”</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Mechanics</name>
+      <set>IRO</set>
+      <prop>
+        <color></color>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>WUBRG: Sketch X (You may discard a card. If you do, create a 0/0 Sketch creature token. Put X +1/+1 counters on it.)
+BR: Blood tokens (They’re artifacts with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)
+GW: Delirium — If there are four or more card types among cards in your graveyard...
+WB: Ritual (Whenever this creature attacks, you may sacrifice an artifact, enchantment, or token.)
+UR: Madness {X} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+GU: Materialize X — {X} ({X}, Exile this card from your graveyard: Put X +1/+1 counters on target artifact, enchantment, or token you control. If it isn’t a creature, it becomes a 0/0 creature in addition to its other types. Materialize only as a sorcery.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Factions</name>
+      <set>IRO</set>
+      <prop>
+        <color></color>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>UBR: Dusktear Choir
+Spellslinger deck focused on discarding and playing instants and sorceries.
+GWU: Kanmaro Order
+Control deck focused on getting artifacts and enchantments into the graveyard to set up big finishers.
+WBG: Festerweb Troupe
+Midrange aristocrats deck focused on sacrificing and recurring artifacts and enchantments.
+RWB: Jikizu Creed
+Aggressive aristocrats deck focused on sacrificing tokens with ritual.
+GUR: Kumei Movement
+Midrange deck focused on getting value for discarding cards.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure</name>
+      <set>IRO</set>
+      <prop>
+        <color></color>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Sketch</name>
+      <set>IRO</set>
+      <prop>
+        <color></color>
+        <type>Token Creature - Sketch </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Horror</name>
+      <set>IRO</set>
+      <prop>
+        <color>BR</color>
+        <type>Token Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, it deals 1 damage to each opponent.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Inkling</name>
+      <set>IRO</set>
+      <prop>
+        <color>WB</color>
+        <type>Token Creature - Inkling </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Sculpture</name>
+      <set>IRO</set>
+      <prop>
+        <color></color>
+        <type>Token Artifact Creature - Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Elemental</name>
+      <set>IRO</set>
+      <prop>
+        <color>UR</color>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

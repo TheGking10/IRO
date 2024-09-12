@@ -1,0 +1,1608 @@
+[CustomCards]
+	[    {
+	        "name": "Kinura's Genesis",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kinura's Genesis.png"
+	        }
+	    },
+	    {
+	        "name": "Inspiring Statue",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact Creature — Sculpture ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Inspiring Statue.png"
+	        }
+	    },
+	    {
+	        "name": "Openvein Scribe",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Vampire Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Openvein Scribe.png"
+	        }
+	    },
+	    {
+	        "name": "Plastic Performers",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Artifact Creature — Performer Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Plastic Performers.png"
+	        }
+	    },
+	    {
+	        "name": "Jikizu Initiate",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Jikizu Initiate.png"
+	        }
+	    },
+	    {
+	        "name": "Inkblessed Samurai",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment Creature — Human Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Inkblessed Samurai.png"
+	        }
+	    },
+	    {
+	        "name": "Reconstructing Sculpture",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Artifact Creature — Sculpture ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Reconstructing Sculpture.png"
+	        }
+	    },
+	    {
+	        "name": "Masked Troupe",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Masked Troupe.png"
+	        }
+	    },
+	    {
+	        "name": "Imitation of the Divine",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Artifact Creature — Angel Sculpture ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Imitation of the Divine.png"
+	        }
+	    },
+	    {
+	        "name": "Calligraphic Strike",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Calligraphic Strike.png"
+	        }
+	    },
+	    {
+	        "name": "Idealized Agony",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Idealized Agony.png"
+	        }
+	    },
+	    {
+	        "name": "Bring the Hammer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Bring the Hammer.png"
+	        }
+	    },
+	    {
+	        "name": "Blessed Performance",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Blessed Performance.png"
+	        }
+	    },
+	    {
+	        "name": "Role of a Hero",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Role of a Hero.png"
+	        }
+	    },
+	    {
+	        "name": "Whiteout",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Whiteout.png"
+	        }
+	    },
+	    {
+	        "name": "Friendly Palette",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Friendly Palette.png"
+	        }
+	    },
+	    {
+	        "name": "Slick Street Artist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Slick Street Artist.png"
+	        }
+	    },
+	    {
+	        "name": "Kinura's Pupil",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kinura's Pupil.png"
+	        }
+	    },
+	    {
+	        "name": "Kanmaro Initiate",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Artifact Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kanmaro Initiate.png"
+	        }
+	    },
+	    {
+	        "name": "Rainvoice Soloist",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Merfolk Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Rainvoice Soloist.png"
+	        }
+	    },
+	    {
+	        "name": "Delirious Prophet",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Delirious Prophet.png"
+	        }
+	    },
+	    {
+	        "name": "Haunting Musician",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Spirit Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Haunting Musician.png"
+	        }
+	    },
+	    {
+	        "name": "Eyebell",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Eyebell.png"
+	        }
+	    },
+	    {
+	        "name": "Deconstructive Criticism",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Deconstructive Criticism.png"
+	        }
+	    },
+	    {
+	        "name": "Drown the Noise",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Drown the Noise.png"
+	        }
+	    },
+	    {
+	        "name": "Aomorphosis",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Aomorphosis.png"
+	        }
+	    },
+	    {
+	        "name": "Intrusive Thoughts",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Intrusive Thoughts.png"
+	        }
+	    },
+	    {
+	        "name": "Sketch Out",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Sketch Out.png"
+	        }
+	    },
+	    {
+	        "name": "Abstractify",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Abstractify.png"
+	        }
+	    },
+	    {
+	        "name": "Bury in Clay",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Bury in Clay.png"
+	        }
+	    },
+	    {
+	        "name": "Blotchblood Vampire",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Enchantment Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Blotchblood Vampire.png"
+	        }
+	    },
+	    {
+	        "name": "Macabre Jester",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Macabre Jester.png"
+	        }
+	    },
+	    {
+	        "name": "Blotfly",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment Creature — Inkling ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Blotfly.png"
+	        }
+	    },
+	    {
+	        "name": "Wealthy Patron",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Wealthy Patron.png"
+	        }
+	    },
+	    {
+	        "name": "Dusktear Initiate",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Vampire Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Dusktear Initiate.png"
+	        }
+	    },
+	    {
+	        "name": "Wicked Bard",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Bard Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Wicked Bard.png"
+	        }
+	    },
+	    {
+	        "name": "Writer of Dark Hymns",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Writer of Dark Hymns.png"
+	        }
+	    },
+	    {
+	        "name": "Harpstring Slasher",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Vampire Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Harpstring Slasher.png"
+	        }
+	    },
+	    {
+	        "name": "Dying on Stage",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Dying on Stage.png"
+	        }
+	    },
+	    {
+	        "name": "Chorus of Screams",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Chorus of Screams.png"
+	        }
+	    },
+	    {
+	        "name": "Inky Embrace",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Inky Embrace.png"
+	        }
+	    },
+	    {
+	        "name": "Draw to Life",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Draw to Life.png"
+	        }
+	    },
+	    {
+	        "name": "Peer Through Scars",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Peer Through Scars.png"
+	        }
+	    },
+	    {
+	        "name": "Stain Image",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Stain Image.png"
+	        }
+	    },
+	    {
+	        "name": "Bloodbind",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Bloodbind.png"
+	        }
+	    },
+	    {
+	        "name": "Canvas Splatterer",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Inkling Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Canvas Splatterer.png"
+	        }
+	    },
+	    {
+	        "name": "Twincan Tagger",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Twincan Tagger.png"
+	        }
+	    },
+	    {
+	        "name": "Flamevoice Rager",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Flamevoice Rager.png"
+	        }
+	    },
+	    {
+	        "name": "Vibrant Paintsoaker",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment Creature — Lizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Vibrant Paintsoaker.png"
+	        }
+	    },
+	    {
+	        "name": "Inkarms Assailant",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment Creature — Vampire Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Inkarms Assailant.png"
+	        }
+	    },
+	    {
+	        "name": "Kumei Initiate",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Fox Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kumei Initiate.png"
+	        }
+	    },
+	    {
+	        "name": "Brushstroke Tiger",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Enchantment Creature — Cat Inkling ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Brushstroke Tiger.png"
+	        }
+	    },
+	    {
+	        "name": "Hemomancer's Art",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Hemomancer's Art.png"
+	        }
+	    },
+	    {
+	        "name": "Pigment Slash",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Pigment Slash.png"
+	        }
+	    },
+	    {
+	        "name": "Thrill of Possibility",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Thrill of Possibility.png"
+	        }
+	    },
+	    {
+	        "name": "Violent Crescendo",
+	        "rarity": "common",
+	        "mana_cost": "{5}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Violent Crescendo.png"
+	        }
+	    },
+	    {
+	        "name": "Hovering Bloodblades",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Hovering Bloodblades.png"
+	        }
+	    },
+	    {
+	        "name": "Living on Adrenaline",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Living on Adrenaline.png"
+	        }
+	    },
+	    {
+	        "name": "Shattering Screams",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Shattering Screams.png"
+	        }
+	    },
+	    {
+	        "name": "Monstrous Tattoo",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Monstrous Tattoo.png"
+	        }
+	    },
+	    {
+	        "name": "Kumei Wildstyler",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Wolf Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kumei Wildstyler.png"
+	        }
+	    },
+	    {
+	        "name": "Wildlife Carver",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elf Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Wildlife Carver.png"
+	        }
+	    },
+	    {
+	        "name": "Silkcloaked Actor",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Performer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Silkcloaked Actor.png"
+	        }
+	    },
+	    {
+	        "name": "Festerweb Initiate",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Performer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Festerweb Initiate.png"
+	        }
+	    },
+	    {
+	        "name": "Landscape Painting",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Landscape Painting.png"
+	        }
+	    },
+	    {
+	        "name": "Spraycan Arachnid",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment Creature — Spider Sketch ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Spraycan Arachnid.png"
+	        }
+	    },
+	    {
+	        "name": "Puppeteer's Pets",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Artifact Creature — Cat Dog Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Puppeteer's Pets.png"
+	        }
+	    },
+	    {
+	        "name": "Colorroot Behemoth",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Enchantment Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Colorroot Behemoth.png"
+	        }
+	    },
+	    {
+	        "name": "Paragon of Stoneoak",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G}",
+	        "type": "Artifact Creature — Sculpture ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Paragon of Stoneoak.png"
+	        }
+	    },
+	    {
+	        "name": "Forced Conflict",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Forced Conflict.png"
+	        }
+	    },
+	    {
+	        "name": "Sculpt to Perfection",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Sculpt to Perfection.png"
+	        }
+	    },
+	    {
+	        "name": "Gift of the Spiders",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Gift of the Spiders.png"
+	        }
+	    },
+	    {
+	        "name": "Radiant Whirlwind",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Radiant Whirlwind.png"
+	        }
+	    },
+	    {
+	        "name": "New Coat of Paint",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/New Coat of Paint.png"
+	        }
+	    },
+	    {
+	        "name": "Overgrown Statue",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Artifact Creature — Sculpture ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Overgrown Statue.png"
+	        }
+	    },
+	    {
+	        "name": "Samurai of the Thirsty Blade",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Creature — Vampire Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Samurai of the Thirsty Blade.png"
+	        }
+	    },
+	    {
+	        "name": "Visionary Painter",
+	        "rarity": "common",
+	        "mana_cost": "{G}{W}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Visionary Painter.png"
+	        }
+	    },
+	    {
+	        "name": "Herald of Stains",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Creature — Inkling ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Herald of Stains.png"
+	        }
+	    },
+	    {
+	        "name": "Brush with Madness",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Brush with Madness.png"
+	        }
+	    },
+	    {
+	        "name": "Stalking Graffiti",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Enchantment Creature — Beast Sketch ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Stalking Graffiti.png"
+	        }
+	    },
+	    {
+	        "name": "Stringpuller Stagehand",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}{B}{G}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Stringpuller Stagehand.png"
+	        }
+	    },
+	    {
+	        "name": "Ishamu's Surveyor",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}{W}{U}",
+	        "type": "Artifact Creature — Sculpture ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Ishamu's Surveyor.png"
+	        }
+	    },
+	    {
+	        "name": "Inkbleed Hive",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{W}{B}",
+	        "type": "Creature — Inkling Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Inkbleed Hive.png"
+	        }
+	    },
+	    {
+	        "name": "Rowdy Crowdstirrer",
+	        "rarity": "common",
+	        "mana_cost": "{U}{B}{R}",
+	        "type": "Creature — Human Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Rowdy Crowdstirrer.png"
+	        }
+	    },
+	    {
+	        "name": "Tattoo Summoner",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}{U}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Tattoo Summoner.png"
+	        }
+	    },
+	    {
+	        "name": "Realmwound Summoning",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B/R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Realmwound Summoning.png"
+	        }
+	    },
+	    {
+	        "name": "Mindstained Vampire",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B/R}",
+	        "type": "Enchantment Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Mindstained Vampire.png"
+	        }
+	    },
+	    {
+	        "name": "Bonded Prismancer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G/W}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Bonded Prismancer.png"
+	        }
+	    },
+	    {
+	        "name": "Origami Familiars",
+	        "rarity": "common",
+	        "mana_cost": "{G/W}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Origami Familiars.png"
+	        }
+	    },
+	    {
+	        "name": "Soulblot",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W/B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Soulblot.png"
+	        }
+	    },
+	    {
+	        "name": "Refined Inkling",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W/B}",
+	        "type": "Enchantment Creature — Inkling ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Refined Inkling.png"
+	        }
+	    },
+	    {
+	        "name": "Rubypool Awakening",
+	        "rarity": "common",
+	        "mana_cost": "{U/R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Rubypool Awakening.png"
+	        }
+	    },
+	    {
+	        "name": "Stormchaser Prodigy",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U/R}{U/R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Stormchaser Prodigy.png"
+	        }
+	    },
+	    {
+	        "name": "Sculpt the Woods",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G/U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Sculpt the Woods.png"
+	        }
+	    },
+	    {
+	        "name": "Paintrune Guide",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G/U}",
+	        "type": "Enchantment Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Paintrune Guide.png"
+	        }
+	    },
+	    {
+	        "name": "Vibranceseeker",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Enchantment Creature — Sketch ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Vibranceseeker.png"
+	        }
+	    },
+	    {
+	        "name": "Papercraft Princess",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Noble Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Papercraft Princess.png"
+	        }
+	    },
+	    {
+	        "name": "Harpsong Automaton",
+	        "rarity": "common",
+	        "mana_cost": "{6}",
+	        "type": "Artifact Creature — Sculpture ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Harpsong Automaton.png"
+	        }
+	    },
+	    {
+	        "name": "Masterpiece Brush",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Masterpiece Brush.png"
+	        }
+	    },
+	    {
+	        "name": "Paintspill Buckets",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Paintspill Buckets.png"
+	        }
+	    },
+	    {
+	        "name": "Canvas Expanse",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Canvas Expanse.png"
+	        }
+	    },
+	    {
+	        "name": "Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Plains.png"
+	        }
+	    },
+	    {
+	        "name": "Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Island.png"
+	        }
+	    },
+	    {
+	        "name": "Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Swamp.png"
+	        }
+	    },
+	    {
+	        "name": "Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Mountain.png"
+	        }
+	    },
+	    {
+	        "name": "Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Forest.png"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Entrance",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Iridescent Entrance.png"
+	        }
+	    },
+	    {
+	        "name": "Inky Bog",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Inky Bog.png"
+	        }
+	    },
+	    {
+	        "name": "Stained Grounds",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Stained Grounds.png"
+	        }
+	    },
+	    {
+	        "name": "Pigmented Wilds",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Pigmented Wilds.png"
+	        }
+	    },
+	    {
+	        "name": "Kaleidoscopic Woods",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kaleidoscopic Woods.png"
+	        }
+	    },
+	    {
+	        "name": "Nightshine Tower",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Nightshine Tower.png"
+	        }
+	    },
+	    {
+	        "name": "Gleaming Peak",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Gleaming Peak.png"
+	        }
+	    },
+	    {
+	        "name": "Veinweb Village",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Veinweb Village.png"
+	        }
+	    },
+	    {
+	        "name": "Bleeding Valley",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Bleeding Valley.png"
+	        }
+	    },
+	    {
+	        "name": "Painted Falls",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Painted Falls.png"
+	        }
+	    },
+	    {
+	        "name": "Kusattachi's Duelist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kusattachi's Duelist.png"
+	        }
+	    },
+	    {
+	        "name": "Webweave Dancers",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Webweave Dancers.png"
+	        }
+	    },
+	    {
+	        "name": "Audience Captor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Audience Captor.png"
+	        }
+	    },
+	    {
+	        "name": "Wings of Ink",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Wings of Ink.png"
+	        }
+	    },
+	    {
+	        "name": "Fly Off The Handle",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Fly Off The Handle.png"
+	        }
+	    },
+	    {
+	        "name": "Inscrutible Edifice",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Artifact Creature — Sculpture ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Inscrutible Edifice.png"
+	        }
+	    },
+	    {
+	        "name": "Thrist for Inspiration",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Thrist for Inspiration.png"
+	        }
+	    },
+	    {
+	        "name": "Colorsplash Denial",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Colorsplash Denial.png"
+	        }
+	    },
+	    {
+	        "name": "Wallow in Rejection",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Wallow in Rejection.png"
+	        }
+	    },
+	    {
+	        "name": "Mask Maker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Mask Maker.png"
+	        }
+	    },
+	    {
+	        "name": "Blood Artist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Blood Artist.png"
+	        }
+	    },
+	    {
+	        "name": "Paint Spray",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Paint Spray.png"
+	        }
+	    },
+	    {
+	        "name": "Paint the Town Red",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Paint the Town Red.png"
+	        }
+	    },
+	    {
+	        "name": "Naturebrusher",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Naturebrusher.png"
+	        }
+	    },
+	    {
+	        "name": "Marble Hydra",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{G}",
+	        "type": "Artifact Creature — Hydra Sculpture ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Marble Hydra.png"
+	        }
+	    },
+	    {
+	        "name": "Paint a Better Picture",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Paint a Better Picture.png"
+	        }
+	    },
+	    {
+	        "name": "Hallowed Landscaper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{W}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Hallowed Landscaper.png"
+	        }
+	    },
+	    {
+	        "name": "Nightvoice Guitarist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{B}{R}",
+	        "type": "Creature — Vampire Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Nightvoice Guitarist.png"
+	        }
+	    },
+	    {
+	        "name": "Dusktear Charm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{B}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Dusktear Charm.png"
+	        }
+	    },
+	    {
+	        "name": "Divine Construct",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{W}{U}",
+	        "type": "Artifact Creature — Angel Sculpture ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Divine Construct.png"
+	        }
+	    },
+	    {
+	        "name": "Kanmaro Charm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{W}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kanmaro Charm.png"
+	        }
+	    },
+	    {
+	        "name": "Faceless Puppeteer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}{G}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Faceless Puppeteer.png"
+	        }
+	    },
+	    {
+	        "name": "Scarletblade Hemomancer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{W}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Scarletblade Hemomancer.png"
+	        }
+	    },
+	    {
+	        "name": "Body of Creativity",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{U}{R}",
+	        "type": "Enchantment Creature — Inkling ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Body of Creativity.png"
+	        }
+	    },
+	    {
+	        "name": "Animating Canvas",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Animating Canvas.png"
+	        }
+	    },
+	    {
+	        "name": "Pigment Flood",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Pigment Flood.png"
+	        }
+	    },
+	    {
+	        "name": "Tattoo Soulbinder",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Tattoo Soulbinder.png"
+	        }
+	    },
+	    {
+	        "name": "Call the Colorstorm",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Call the Colorstorm.png"
+	        }
+	    },
+	    {
+	        "name": "Bestiary Artist",
+	        "rarity": "rare",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Elf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Bestiary Artist.png"
+	        }
+	    },
+	    {
+	        "name": "Kinura, Origami Animist",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{U}",
+	        "type": "Legendary Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kinura, Origami Animist.png"
+	        }
+	    },
+	    {
+	        "name": "Asuka, the Raven",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Legendary Creature — Human Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Asuka, the Raven.png"
+	        }
+	    },
+	    {
+	        "name": "Sanguine Sculptor",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Creature — Vampire Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Sanguine Sculptor.png"
+	        }
+	    },
+	    {
+	        "name": "Dorin, Walking Canvas",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{G}",
+	        "type": "Legendary Enchantment Creature — Lizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Dorin, Walking Canvas.png"
+	        }
+	    },
+	    {
+	        "name": "Manni, the Stagesetter",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{G}",
+	        "type": "Legendary Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Manni, the Stagesetter.png"
+	        }
+	    },
+	    {
+	        "name": "Portrait of the Self",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{U}",
+	        "type": "Enchantment Creature — Sketch ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Portrait of the Self.png"
+	        }
+	    },
+	    {
+	        "name": "Senritsu, Dusk Conductor",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{B}{R}",
+	        "type": "Legendary Creature — Vampire Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Senritsu, Dusk Conductor.png"
+	        }
+	    },
+	    {
+	        "name": "Jora, Heiress of Webs",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{B}{G}",
+	        "type": "Legendary Artifact Creature — Spider ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Jora, Heiress of Webs.png"
+	        }
+	    },
+	    {
+	        "name": "Worldshatter Sculpture",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}",
+	        "type": "Artifact Creature — Sculpture ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Worldshatter Sculpture.png"
+	        }
+	    },
+	    {
+	        "name": "Morii of Echoing Despair",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{U}{B}{R}",
+	        "type": "Legendary Creature — Bat Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Morii of Echoing Despair.png"
+	        }
+	    },
+	    {
+	        "name": "Jorobu of Ceaseless Strings",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{B}{G}",
+	        "type": "Legendary Creature — Spider Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Jorobu of Ceaseless Strings.png"
+	        }
+	    },
+	    {
+	        "name": "Mechanics",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Mechanics.png"
+	        }
+	    },
+	    {
+	        "name": "Factions",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Factions.png"
+	        }
+	    },
+	    {
+	        "name": "Treasure",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact — Treasure ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Treasure.png"
+	        }
+	    },
+	    {
+	        "name": "Sketch",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Sketch ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Sketch.png"
+	        }
+	    },
+	    {
+	        "name": "Horror",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Horror.png"
+	        }
+	    },
+	    {
+	        "name": "Inkling",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Inkling ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Inkling.png"
+	        }
+	    },
+	    {
+	        "name": "Sculpture",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact Creature — Sculpture ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Sculpture.png"
+	        }
+	    },
+	    {
+	        "name": "Elemental",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Elemental.png"
+	        }
+	    }
+	]
+	[CommonSlot(14)]
+		50 Kinura's Genesis
+		50 Inspiring Statue
+		50 Openvein Scribe
+		50 Plastic Performers
+		50 Jikizu Initiate
+		50 Inkblessed Samurai
+		50 Reconstructing Sculpture
+		50 Masked Troupe
+		50 Imitation of the Divine
+		50 Calligraphic Strike
+		50 Idealized Agony
+		50 Bring the Hammer
+		50 Blessed Performance
+		50 Role of a Hero
+		50 Whiteout
+		50 Friendly Palette
+		50 Slick Street Artist
+		50 Kinura's Pupil
+		50 Kanmaro Initiate
+		50 Rainvoice Soloist
+		50 Delirious Prophet
+		50 Haunting Musician
+		50 Eyebell
+		50 Deconstructive Criticism
+		50 Drown the Noise
+		50 Aomorphosis
+		50 Intrusive Thoughts
+		50 Sketch Out
+		50 Abstractify
+		50 Bury in Clay
+		50 Blotchblood Vampire
+		50 Macabre Jester
+		50 Blotfly
+		50 Wealthy Patron
+		50 Dusktear Initiate
+		50 Wicked Bard
+		50 Writer of Dark Hymns
+		50 Harpstring Slasher
+		50 Dying on Stage
+		50 Chorus of Screams
+		50 Inky Embrace
+		50 Draw to Life
+		50 Peer Through Scars
+		50 Stain Image
+		50 Bloodbind
+		50 Canvas Splatterer
+		50 Twincan Tagger
+		50 Flamevoice Rager
+		50 Vibrant Paintsoaker
+		50 Inkarms Assailant
+		50 Kumei Initiate
+		50 Brushstroke Tiger
+		50 Hemomancer's Art
+		50 Pigment Slash
+		50 Thrill of Possibility
+		50 Violent Crescendo
+		50 Hovering Bloodblades
+		50 Living on Adrenaline
+		50 Shattering Screams
+		50 Monstrous Tattoo
+		50 Kumei Wildstyler
+		50 Wildlife Carver
+		50 Silkcloaked Actor
+		50 Festerweb Initiate
+		50 Landscape Painting
+		50 Spraycan Arachnid
+		50 Puppeteer's Pets
+		50 Colorroot Behemoth
+		50 Paragon of Stoneoak
+		50 Forced Conflict
+		50 Sculpt to Perfection
+		50 Gift of the Spiders
+		50 Radiant Whirlwind
+		50 New Coat of Paint
+		50 Overgrown Statue
+		50 Samurai of the Thirsty Blade
+		50 Visionary Painter
+		50 Herald of Stains
+		50 Brush with Madness
+		50 Stalking Graffiti
+		50 Stringpuller Stagehand
+		50 Ishamu's Surveyor
+		50 Inkbleed Hive
+		50 Rowdy Crowdstirrer
+		50 Tattoo Summoner
+		50 Realmwound Summoning
+		50 Mindstained Vampire
+		50 Bonded Prismancer
+		50 Origami Familiars
+		50 Soulblot
+		50 Refined Inkling
+		50 Rubypool Awakening
+		50 Stormchaser Prodigy
+		50 Sculpt the Woods
+		50 Paintrune Guide
+		50 Vibranceseeker
+		50 Papercraft Princess
+		50 Harpsong Automaton
+		50 Masterpiece Brush
+		50 Paintspill Buckets
+		50 Canvas Expanse
+		50 Iridescent Entrance
+		50 Inky Bog
+		50 Stained Grounds
+		50 Pigmented Wilds
+		50 Kaleidoscopic Woods
+		50 Nightshine Tower
+		50 Gleaming Peak
+		50 Veinweb Village
+		50 Bleeding Valley
+		50 Painted Falls
+	[BasicSlot(1)]
+		50 Plains
+		50 Island
+		50 Swamp
+		50 Mountain
+		50 Forest
+		50 Canvas Expanse
+		50 Iridescent Entrance
+		50 Inky Bog
+		50 Stained Grounds
+		50 Pigmented Wilds
+		50 Kaleidoscopic Woods
+		50 Nightshine Tower
+		50 Gleaming Peak
+		50 Veinweb Village
+		50 Bleeding Valley
+		50 Painted Falls
+	
