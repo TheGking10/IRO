@@ -5,7 +5,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kinura's Genesis.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Kinura's Genesis.png"
 	        }
 	    },
 	    {
@@ -14,7 +14,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Artifact Creature — Sculpture ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Inspiring Statue.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Inspiring Statue.png"
 	        }
 	    },
 	    {
@@ -23,7 +23,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Vampire Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Openvein Scribe.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Openvein Scribe.png"
 	        }
 	    },
 	    {
@@ -32,7 +32,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Artifact Creature — Performer Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Plastic Performers.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Plastic Performers.png"
 	        }
 	    },
 	    {
@@ -41,7 +41,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Vampire ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Jikizu Initiate.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Jikizu Initiate.png"
 	        }
 	    },
 	    {
@@ -50,7 +50,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment Creature — Human Samurai ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Inkblessed Samurai.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Inkblessed Samurai.png"
 	        }
 	    },
 	    {
@@ -59,7 +59,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Artifact Creature — Sculpture ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Reconstructing Sculpture.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Reconstructing Sculpture.png"
 	        }
 	    },
 	    {
@@ -68,7 +68,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Masked Troupe.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Masked Troupe.png"
 	        }
 	    },
 	    {
@@ -77,7 +77,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Artifact Creature — Angel Sculpture ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Imitation of the Divine.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Imitation of the Divine.png"
 	        }
 	    },
 	    {
@@ -86,7 +86,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Calligraphic Strike.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Calligraphic Strike.png"
 	        }
 	    },
 	    {
@@ -95,7 +95,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Idealized Agony.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Idealized Agony.png"
 	        }
 	    },
 	    {
@@ -104,7 +104,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Bring the Hammer.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Bring the Hammer.png"
 	        }
 	    },
 	    {
@@ -113,7 +113,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Blessed Performance.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Blessed Performance.png"
 	        }
 	    },
 	    {
@@ -122,7 +122,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Role of a Hero.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Role of a Hero.png"
 	        }
 	    },
 	    {
@@ -131,7 +131,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Whiteout.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Whiteout.png"
 	        }
 	    },
 	    {
@@ -140,7 +140,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Friendly Palette.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Friendly Palette.png"
 	        }
 	    },
 	    {
@@ -149,7 +149,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Slick Street Artist.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Slick Street Artist.png"
 	        }
 	    },
 	    {
@@ -158,7 +158,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kinura's Pupil.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Kinura's Pupil.png"
 	        }
 	    },
 	    {
@@ -167,7 +167,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Artifact Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kanmaro Initiate.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Kanmaro Initiate.png"
 	        }
 	    },
 	    {
@@ -176,7 +176,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Merfolk Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Rainvoice Soloist.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Rainvoice Soloist.png"
 	        }
 	    },
 	    {
@@ -185,7 +185,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Delirious Prophet.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Delirious Prophet.png"
 	        }
 	    },
 	    {
@@ -194,7 +194,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Spirit Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Haunting Musician.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Haunting Musician.png"
 	        }
 	    },
 	    {
@@ -203,7 +203,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Eyebell.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Eyebell.png"
 	        }
 	    },
 	    {
@@ -212,7 +212,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Deconstructive Criticism.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Deconstructive Criticism.png"
 	        }
 	    },
 	    {
@@ -221,7 +221,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Drown the Noise.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Drown the Noise.png"
 	        }
 	    },
 	    {
@@ -230,7 +230,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Aomorphosis.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Aomorphosis.png"
 	        }
 	    },
 	    {
@@ -239,7 +239,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Intrusive Thoughts.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Intrusive Thoughts.png"
 	        }
 	    },
 	    {
@@ -248,7 +248,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Sketch Out.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Sketch Out.png"
 	        }
 	    },
 	    {
@@ -257,7 +257,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Abstractify.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Abstractify.png"
 	        }
 	    },
 	    {
@@ -266,7 +266,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Bury in Clay.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Bury in Clay.png"
 	        }
 	    },
 	    {
@@ -275,7 +275,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Enchantment Creature — Vampire ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Blotchblood Vampire.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Blotchblood Vampire.png"
 	        }
 	    },
 	    {
@@ -284,7 +284,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Macabre Jester.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Macabre Jester.png"
 	        }
 	    },
 	    {
@@ -293,7 +293,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment Creature — Inkling ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Blotfly.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Blotfly.png"
 	        }
 	    },
 	    {
@@ -302,7 +302,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Wealthy Patron.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Wealthy Patron.png"
 	        }
 	    },
 	    {
@@ -311,7 +311,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Vampire Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Dusktear Initiate.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Dusktear Initiate.png"
 	        }
 	    },
 	    {
@@ -320,7 +320,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Bard Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Wicked Bard.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Wicked Bard.png"
 	        }
 	    },
 	    {
@@ -329,7 +329,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Writer of Dark Hymns.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Writer of Dark Hymns.png"
 	        }
 	    },
 	    {
@@ -338,7 +338,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Vampire Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Harpstring Slasher.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Harpstring Slasher.png"
 	        }
 	    },
 	    {
@@ -347,7 +347,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Dying on Stage.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Dying on Stage.png"
 	        }
 	    },
 	    {
@@ -356,7 +356,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Chorus of Screams.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Chorus of Screams.png"
 	        }
 	    },
 	    {
@@ -365,7 +365,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Inky Embrace.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Inky Embrace.png"
 	        }
 	    },
 	    {
@@ -374,7 +374,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Draw to Life.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Draw to Life.png"
 	        }
 	    },
 	    {
@@ -383,7 +383,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Peer Through Scars.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Peer Through Scars.png"
 	        }
 	    },
 	    {
@@ -392,7 +392,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Stain Image.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Stain Image.png"
 	        }
 	    },
 	    {
@@ -401,7 +401,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Bloodbind.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Bloodbind.png"
 	        }
 	    },
 	    {
@@ -410,7 +410,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Inkling Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Canvas Splatterer.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Canvas Splatterer.png"
 	        }
 	    },
 	    {
@@ -419,7 +419,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Twincan Tagger.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Twincan Tagger.png"
 	        }
 	    },
 	    {
@@ -428,7 +428,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Flamevoice Rager.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Flamevoice Rager.png"
 	        }
 	    },
 	    {
@@ -437,7 +437,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment Creature — Lizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Vibrant Paintsoaker.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Vibrant Paintsoaker.png"
 	        }
 	    },
 	    {
@@ -446,7 +446,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment Creature — Vampire Samurai ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Inkarms Assailant.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Inkarms Assailant.png"
 	        }
 	    },
 	    {
@@ -455,7 +455,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Fox Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kumei Initiate.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Kumei Initiate.png"
 	        }
 	    },
 	    {
@@ -464,7 +464,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Enchantment Creature — Cat Inkling ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Brushstroke Tiger.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Brushstroke Tiger.png"
 	        }
 	    },
 	    {
@@ -473,7 +473,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Hemomancer's Art.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Hemomancer's Art.png"
 	        }
 	    },
 	    {
@@ -482,16 +482,16 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Pigment Slash.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Pigment Slash.png"
 	        }
 	    },
 	    {
 	        "name": "Thrill of Possibility",
 	        "rarity": "common",
-	        "mana_cost": "",
+	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Thrill of Possibility.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Thrill of Possibility.png"
 	        }
 	    },
 	    {
@@ -500,7 +500,7 @@
 	        "mana_cost": "{5}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Violent Crescendo.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Violent Crescendo.png"
 	        }
 	    },
 	    {
@@ -509,7 +509,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Hovering Bloodblades.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Hovering Bloodblades.png"
 	        }
 	    },
 	    {
@@ -518,7 +518,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Living on Adrenaline.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Living on Adrenaline.png"
 	        }
 	    },
 	    {
@@ -527,7 +527,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Shattering Screams.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Shattering Screams.png"
 	        }
 	    },
 	    {
@@ -536,7 +536,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Monstrous Tattoo.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Monstrous Tattoo.png"
 	        }
 	    },
 	    {
@@ -545,7 +545,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Wolf Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kumei Wildstyler.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Kumei Wildstyler.png"
 	        }
 	    },
 	    {
@@ -554,7 +554,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Elf Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Wildlife Carver.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Wildlife Carver.png"
 	        }
 	    },
 	    {
@@ -563,7 +563,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Performer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Silkcloaked Actor.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Silkcloaked Actor.png"
 	        }
 	    },
 	    {
@@ -572,7 +572,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Performer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Festerweb Initiate.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Festerweb Initiate.png"
 	        }
 	    },
 	    {
@@ -581,7 +581,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Landscape Painting.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Landscape Painting.png"
 	        }
 	    },
 	    {
@@ -590,7 +590,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment Creature — Spider Sketch ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Spraycan Arachnid.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Spraycan Arachnid.png"
 	        }
 	    },
 	    {
@@ -599,7 +599,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Artifact Creature — Cat Dog Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Puppeteer's Pets.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Puppeteer's Pets.png"
 	        }
 	    },
 	    {
@@ -608,7 +608,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Enchantment Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Colorroot Behemoth.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Colorroot Behemoth.png"
 	        }
 	    },
 	    {
@@ -617,7 +617,7 @@
 	        "mana_cost": "{5}{G}",
 	        "type": "Artifact Creature — Sculpture ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Paragon of Stoneoak.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Paragon of Stoneoak.png"
 	        }
 	    },
 	    {
@@ -626,7 +626,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Forced Conflict.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Forced Conflict.png"
 	        }
 	    },
 	    {
@@ -635,7 +635,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Sculpt to Perfection.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Sculpt to Perfection.png"
 	        }
 	    },
 	    {
@@ -644,7 +644,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Gift of the Spiders.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Gift of the Spiders.png"
 	        }
 	    },
 	    {
@@ -653,7 +653,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Radiant Whirlwind.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Radiant Whirlwind.png"
 	        }
 	    },
 	    {
@@ -662,7 +662,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/New Coat of Paint.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/New Coat of Paint.png"
 	        }
 	    },
 	    {
@@ -671,7 +671,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Artifact Creature — Sculpture ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Overgrown Statue.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Overgrown Statue.png"
 	        }
 	    },
 	    {
@@ -680,7 +680,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Creature — Vampire Samurai ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Samurai of the Thirsty Blade.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Samurai of the Thirsty Blade.png"
 	        }
 	    },
 	    {
@@ -689,7 +689,7 @@
 	        "mana_cost": "{G}{W}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Visionary Painter.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Visionary Painter.png"
 	        }
 	    },
 	    {
@@ -698,7 +698,7 @@
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Creature — Inkling ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Herald of Stains.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Herald of Stains.png"
 	        }
 	    },
 	    {
@@ -707,7 +707,7 @@
 	        "mana_cost": "{2}{U}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Brush with Madness.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Brush with Madness.png"
 	        }
 	    },
 	    {
@@ -716,7 +716,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Enchantment Creature — Beast Sketch ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Stalking Graffiti.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Stalking Graffiti.png"
 	        }
 	    },
 	    {
@@ -725,7 +725,7 @@
 	        "mana_cost": "{2}{W}{B}{G}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Stringpuller Stagehand.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Stringpuller Stagehand.png"
 	        }
 	    },
 	    {
@@ -734,7 +734,7 @@
 	        "mana_cost": "{2}{G}{W}{U}",
 	        "type": "Artifact Creature — Sculpture ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Ishamu's Surveyor.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Ishamu's Surveyor.png"
 	        }
 	    },
 	    {
@@ -743,7 +743,7 @@
 	        "mana_cost": "{3}{R}{W}{B}",
 	        "type": "Creature — Inkling Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Inkbleed Hive.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Inkbleed Hive.png"
 	        }
 	    },
 	    {
@@ -752,7 +752,7 @@
 	        "mana_cost": "{U}{B}{R}",
 	        "type": "Creature — Human Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Rowdy Crowdstirrer.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Rowdy Crowdstirrer.png"
 	        }
 	    },
 	    {
@@ -761,7 +761,7 @@
 	        "mana_cost": "{3}{G}{U}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Tattoo Summoner.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Tattoo Summoner.png"
 	        }
 	    },
 	    {
@@ -770,7 +770,7 @@
 	        "mana_cost": "{2}{B/R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Realmwound Summoning.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Realmwound Summoning.png"
 	        }
 	    },
 	    {
@@ -779,7 +779,7 @@
 	        "mana_cost": "{1}{B/R}",
 	        "type": "Enchantment Creature — Vampire ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Mindstained Vampire.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Mindstained Vampire.png"
 	        }
 	    },
 	    {
@@ -788,7 +788,7 @@
 	        "mana_cost": "{2}{G/W}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Bonded Prismancer.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Bonded Prismancer.png"
 	        }
 	    },
 	    {
@@ -797,7 +797,7 @@
 	        "mana_cost": "{G/W}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Origami Familiars.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Origami Familiars.png"
 	        }
 	    },
 	    {
@@ -806,7 +806,7 @@
 	        "mana_cost": "{2}{W/B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Soulblot.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Soulblot.png"
 	        }
 	    },
 	    {
@@ -815,7 +815,7 @@
 	        "mana_cost": "{3}{W/B}",
 	        "type": "Enchantment Creature — Inkling ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Refined Inkling.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Refined Inkling.png"
 	        }
 	    },
 	    {
@@ -824,7 +824,7 @@
 	        "mana_cost": "{U/R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Rubypool Awakening.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Rubypool Awakening.png"
 	        }
 	    },
 	    {
@@ -833,7 +833,7 @@
 	        "mana_cost": "{2}{U/R}{U/R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Stormchaser Prodigy.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Stormchaser Prodigy.png"
 	        }
 	    },
 	    {
@@ -842,7 +842,7 @@
 	        "mana_cost": "{3}{G/U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Sculpt the Woods.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Sculpt the Woods.png"
 	        }
 	    },
 	    {
@@ -851,7 +851,7 @@
 	        "mana_cost": "{5}{G/U}",
 	        "type": "Enchantment Creature — Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Paintrune Guide.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Paintrune Guide.png"
 	        }
 	    },
 	    {
@@ -860,7 +860,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Enchantment Creature — Sketch ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Vibranceseeker.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Vibranceseeker.png"
 	        }
 	    },
 	    {
@@ -869,7 +869,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact Creature — Noble Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Papercraft Princess.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Papercraft Princess.png"
 	        }
 	    },
 	    {
@@ -878,7 +878,7 @@
 	        "mana_cost": "{6}",
 	        "type": "Artifact Creature — Sculpture ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Harpsong Automaton.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Harpsong Automaton.png"
 	        }
 	    },
 	    {
@@ -887,7 +887,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Masterpiece Brush.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Masterpiece Brush.png"
 	        }
 	    },
 	    {
@@ -896,7 +896,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Paintspill Buckets.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Paintspill Buckets.png"
 	        }
 	    },
 	    {
@@ -905,7 +905,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Canvas Expanse.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Canvas Expanse.png"
 	        }
 	    },
 	    {
@@ -914,7 +914,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Plains.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Plains.png"
 	        }
 	    },
 	    {
@@ -923,7 +923,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Island.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Island.png"
 	        }
 	    },
 	    {
@@ -932,7 +932,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Swamp.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Swamp.png"
 	        }
 	    },
 	    {
@@ -941,7 +941,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Mountain.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Mountain.png"
 	        }
 	    },
 	    {
@@ -950,7 +950,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Forest.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Forest.png"
 	        }
 	    },
 	    {
@@ -959,7 +959,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Iridescent Entrance.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Iridescent Entrance.png"
 	        }
 	    },
 	    {
@@ -968,7 +968,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Inky Bog.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Inky Bog.png"
 	        }
 	    },
 	    {
@@ -977,7 +977,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Stained Grounds.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Stained Grounds.png"
 	        }
 	    },
 	    {
@@ -986,7 +986,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Pigmented Wilds.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Pigmented Wilds.png"
 	        }
 	    },
 	    {
@@ -995,7 +995,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kaleidoscopic Woods.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Kaleidoscopic Woods.png"
 	        }
 	    },
 	    {
@@ -1004,7 +1004,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Nightshine Tower.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Nightshine Tower.png"
 	        }
 	    },
 	    {
@@ -1013,7 +1013,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Gleaming Peak.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Gleaming Peak.png"
 	        }
 	    },
 	    {
@@ -1022,7 +1022,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Veinweb Village.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Veinweb Village.png"
 	        }
 	    },
 	    {
@@ -1031,7 +1031,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Bleeding Valley.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Bleeding Valley.png"
 	        }
 	    },
 	    {
@@ -1040,7 +1040,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Painted Falls.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Painted Falls.png"
 	        }
 	    },
 	    {
@@ -1049,7 +1049,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Samurai ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kusattachi's Duelist.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Kusattachi's Duelist.png"
 	        }
 	    },
 	    {
@@ -1058,7 +1058,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Webweave Dancers.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Webweave Dancers.png"
 	        }
 	    },
 	    {
@@ -1067,7 +1067,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Audience Captor.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Audience Captor.png"
 	        }
 	    },
 	    {
@@ -1076,7 +1076,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Wings of Ink.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Wings of Ink.png"
 	        }
 	    },
 	    {
@@ -1085,7 +1085,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Fly Off The Handle.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Fly Off The Handle.png"
 	        }
 	    },
 	    {
@@ -1094,7 +1094,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Artifact Creature — Sculpture ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Inscrutible Edifice.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Inscrutible Edifice.png"
 	        }
 	    },
 	    {
@@ -1103,7 +1103,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Thrist for Inspiration.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Thrist for Inspiration.png"
 	        }
 	    },
 	    {
@@ -1112,7 +1112,7 @@
 	        "mana_cost": "{X}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Colorsplash Denial.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Colorsplash Denial.png"
 	        }
 	    },
 	    {
@@ -1121,7 +1121,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Wallow in Rejection.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Wallow in Rejection.png"
 	        }
 	    },
 	    {
@@ -1130,7 +1130,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Mask Maker.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Mask Maker.png"
 	        }
 	    },
 	    {
@@ -1139,7 +1139,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Vampire ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Blood Artist.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Blood Artist.png"
 	        }
 	    },
 	    {
@@ -1148,7 +1148,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Paint Spray.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Paint Spray.png"
 	        }
 	    },
 	    {
@@ -1157,7 +1157,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Paint the Town Red.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Paint the Town Red.png"
 	        }
 	    },
 	    {
@@ -1166,7 +1166,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Naturebrusher.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Naturebrusher.png"
 	        }
 	    },
 	    {
@@ -1175,7 +1175,7 @@
 	        "mana_cost": "{X}{G}",
 	        "type": "Artifact Creature — Hydra Sculpture ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Marble Hydra.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Marble Hydra.png"
 	        }
 	    },
 	    {
@@ -1184,7 +1184,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Paint a Better Picture.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Paint a Better Picture.png"
 	        }
 	    },
 	    {
@@ -1193,7 +1193,7 @@
 	        "mana_cost": "{3}{G}{W}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Hallowed Landscaper.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Hallowed Landscaper.png"
 	        }
 	    },
 	    {
@@ -1202,7 +1202,7 @@
 	        "mana_cost": "{U}{B}{R}",
 	        "type": "Creature — Vampire Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Nightvoice Guitarist.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Nightvoice Guitarist.png"
 	        }
 	    },
 	    {
@@ -1211,7 +1211,7 @@
 	        "mana_cost": "{U}{B}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Dusktear Charm.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Dusktear Charm.png"
 	        }
 	    },
 	    {
@@ -1220,7 +1220,7 @@
 	        "mana_cost": "{1}{G}{W}{U}",
 	        "type": "Artifact Creature — Angel Sculpture ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Divine Construct.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Divine Construct.png"
 	        }
 	    },
 	    {
@@ -1229,7 +1229,7 @@
 	        "mana_cost": "{G}{W}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kanmaro Charm.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Kanmaro Charm.png"
 	        }
 	    },
 	    {
@@ -1238,7 +1238,7 @@
 	        "mana_cost": "{1}{W}{B}{G}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Faceless Puppeteer.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Faceless Puppeteer.png"
 	        }
 	    },
 	    {
@@ -1247,7 +1247,7 @@
 	        "mana_cost": "{R}{W}{B}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Scarletblade Hemomancer.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Scarletblade Hemomancer.png"
 	        }
 	    },
 	    {
@@ -1256,7 +1256,7 @@
 	        "mana_cost": "{G}{U}{R}",
 	        "type": "Enchantment Creature — Inkling ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Body of Creativity.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Body of Creativity.png"
 	        }
 	    },
 	    {
@@ -1265,7 +1265,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Animating Canvas.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Animating Canvas.png"
 	        }
 	    },
 	    {
@@ -1274,7 +1274,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Pigment Flood.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Pigment Flood.png"
 	        }
 	    },
 	    {
@@ -1283,7 +1283,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Tattoo Soulbinder.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Tattoo Soulbinder.png"
 	        }
 	    },
 	    {
@@ -1292,7 +1292,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Call the Colorstorm.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Call the Colorstorm.png"
 	        }
 	    },
 	    {
@@ -1301,7 +1301,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Elf ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Bestiary Artist.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Bestiary Artist.png"
 	        }
 	    },
 	    {
@@ -1310,7 +1310,7 @@
 	        "mana_cost": "{2}{W}{U}",
 	        "type": "Legendary Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Kinura, Origami Animist.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Kinura, Origami Animist.png"
 	        }
 	    },
 	    {
@@ -1319,7 +1319,7 @@
 	        "mana_cost": "{1}{U}{B}",
 	        "type": "Legendary Creature — Human Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Asuka, the Raven.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Asuka, the Raven.png"
 	        }
 	    },
 	    {
@@ -1328,7 +1328,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Creature — Vampire Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Sanguine Sculptor.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Sanguine Sculptor.png"
 	        }
 	    },
 	    {
@@ -1337,7 +1337,7 @@
 	        "mana_cost": "{R}{G}",
 	        "type": "Legendary Enchantment Creature — Lizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Dorin, Walking Canvas.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Dorin, Walking Canvas.png"
 	        }
 	    },
 	    {
@@ -1346,7 +1346,7 @@
 	        "mana_cost": "{2}{B}{G}",
 	        "type": "Legendary Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Manni, the Stagesetter.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Manni, the Stagesetter.png"
 	        }
 	    },
 	    {
@@ -1355,7 +1355,7 @@
 	        "mana_cost": "{2}{G}{U}",
 	        "type": "Enchantment Creature — Sketch ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Portrait of the Self.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Portrait of the Self.png"
 	        }
 	    },
 	    {
@@ -1364,7 +1364,7 @@
 	        "mana_cost": "{1}{U}{B}{R}",
 	        "type": "Legendary Creature — Vampire Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Senritsu, Dusk Conductor.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Senritsu, Dusk Conductor.png"
 	        }
 	    },
 	    {
@@ -1373,7 +1373,7 @@
 	        "mana_cost": "{W}{B}{G}",
 	        "type": "Legendary Artifact Creature — Spider ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Jora, Heiress of Webs.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Jora, Heiress of Webs.png"
 	        }
 	    },
 	    {
@@ -1382,7 +1382,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Artifact Creature — Sculpture ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Worldshatter Sculpture.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Worldshatter Sculpture.png"
 	        }
 	    },
 	    {
@@ -1391,7 +1391,7 @@
 	        "mana_cost": "{3}{U}{B}{R}",
 	        "type": "Legendary Creature — Bat Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Morii of Echoing Despair.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Morii of Echoing Despair.png"
 	        }
 	    },
 	    {
@@ -1400,7 +1400,7 @@
 	        "mana_cost": "{2}{W}{B}{G}",
 	        "type": "Legendary Creature — Spider Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Jorobu of Ceaseless Strings.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Jorobu of Ceaseless Strings.png"
 	        }
 	    },
 	    {
@@ -1409,7 +1409,7 @@
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Mechanics.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Mechanics.png"
 	        }
 	    },
 	    {
@@ -1418,7 +1418,7 @@
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Factions.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Factions.png"
 	        }
 	    },
 	    {
@@ -1427,7 +1427,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact — Treasure ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Treasure.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Treasure.png"
 	        }
 	    },
 	    {
@@ -1436,7 +1436,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Sketch ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Sketch.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Sketch.png"
 	        }
 	    },
 	    {
@@ -1445,7 +1445,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Horror.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Horror.png"
 	        }
 	    },
 	    {
@@ -1454,7 +1454,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Inkling ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Inkling.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Inkling.png"
 	        }
 	    },
 	    {
@@ -1463,7 +1463,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact Creature — Sculpture ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Sculpture.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Sculpture.png"
 	        }
 	    },
 	    {
@@ -1472,11 +1472,11 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV1C-files/Elemental.png"
+	            "en": "https://raw.githubusercontent.com/TheGking10/IRO/main/IROV2C-files/Elemental.png"
 	        }
 	    }
 	]
-	[CommonSlot(14)]
+	[CommonSlot(13)]
 		50 Kinura's Genesis
 		50 Inspiring Statue
 		50 Openvein Scribe
@@ -1578,6 +1578,27 @@
 		50 Masterpiece Brush
 		50 Paintspill Buckets
 		50 Canvas Expanse
+	[MulticoloredCommonSlot(1)]
+		50 Samurai of the Thirsty Blade
+		50 Visionary Painter
+		50 Herald of Stains
+		50 Brush with Madness
+		50 Stalking Graffiti
+		50 Stringpuller Stagehand
+		50 Ishamu's Surveyor
+		50 Inkbleed Hive
+		50 Rowdy Crowdstirrer
+		50 Tattoo Summoner
+		50 Realmwound Summoning
+		50 Mindstained Vampire
+		50 Bonded Prismancer
+		50 Origami Familiars
+		50 Soulblot
+		50 Refined Inkling
+		50 Rubypool Awakening
+		50 Stormchaser Prodigy
+		50 Sculpt the Woods
+		50 Paintrune Guide
 		50 Iridescent Entrance
 		50 Inky Bog
 		50 Stained Grounds
@@ -1594,7 +1615,6 @@
 		50 Swamp
 		50 Mountain
 		50 Forest
-		50 Canvas Expanse
 		50 Iridescent Entrance
 		50 Inky Bog
 		50 Stained Grounds

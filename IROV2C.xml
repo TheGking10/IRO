@@ -790,8 +790,8 @@ Pigment Slash deals 3 damage to any target.</text>
       <set rarity="common">IRO</set>
       <prop>
         <color>R</color>
-        <manacost></manacost>
-        <cmc>0</cmc>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
